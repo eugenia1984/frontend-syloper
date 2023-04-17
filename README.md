@@ -7,7 +7,7 @@ CURSO DE FRONTEND CON ![image](https://user-images.githubusercontent.com/7258057
 
 ---
 
-- Son **8 módulos**.
+- Son **8 módulos**, dentro de la carpeta **teoria** está toda la teoría vista en cada uno de los mismos.
 
 - **CLASE DE CONSULTA**: A partir del 24 de abril y cada 15 días, habrá una clase de consulta en la que se responderán preguntas acerca del módulo correspondiente a la clase. Será lunes a las 16 hs y tendrá una duración de 45 minutos. En la clase se tomará asistencia.
 Los ejercicios subidos en cada módulo son opcionales, sirven como práctica pero no serán tenidos en cuenta para la corrección final
