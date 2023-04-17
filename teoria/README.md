@@ -1,6 +1,6 @@
 # :star: MÓDULOS
 
-- [MÓDULO 1](https://github.com/eugenia1984/frontend-syloper/tree/main/teoria/modulo1)
+- [MÓDULO 1](https://github.com/eugenia1984/frontend-syloper/tree/main/teoria/modulo1): GLOSARIO / GIT / GITBUH / BUENAS PRÁCTICAS DE GIT Y GITHUB / SERVIDORES, SEGURIDAD Y SEO PARA TU SITIO
 
 - [MÓDULO 2](https://github.com/eugenia1984/frontend-syloper/tree/main/teoria/modulo2)
 
