@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# :star: Página Web en REACT con curso de Código Facilito
+
+---
+
+## Semana free de FrontEnd en Còdigo Facilito
+
+Realice este curso aprovechando la semana free de **Front End** de **Código Facilito**.
+
+
+
+---
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
