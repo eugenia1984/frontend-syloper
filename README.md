@@ -10,6 +10,12 @@ Realice este curso aprovechando la semana free de **Front End** de **Código Fac
 
 ![image](https://user-images.githubusercontent.com/72580574/232567357-cbeabaff-9a28-455c-84bb-a2a603d9d904.png)
 
+
+## Separada en componentes:
+
+![image](https://user-images.githubusercontent.com/72580574/232567935-342a2625-1ec3-4f4a-bab5-b97b413a21cc.png)
+
+
 ---
 
 ### Getting Started with Create React App
