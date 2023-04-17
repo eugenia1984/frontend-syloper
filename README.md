@@ -1,100 +1,79 @@
-# :star: Página Web en REACT con curso de Código Facilito
+# FRONT END SYLOPER
 
 ---
 
-## Semana free de FrontEnd en Código Facilito
+- Son **8 módulos**.
 
-Realice este curso aprovechando la semana free de **Front End** de **Código Facilito**.
+- **CLASE DE CONSULTA**: A partir del 24 de abril y cada 15 días, habrá una clase de consulta en la que se responderán preguntas acerca del módulo correspondiente a la clase. Será lunes a las 16 hs y tendrá una duración de 45 minutos. En la clase se tomará asistencia.
+Los ejercicios subidos en cada módulo son opcionales, sirven como práctica pero no serán tenidos en cuenta para la corrección final
 
-## Mockup de la estructura
+- Tenemos todo subido a un **classroom**.
 
-![image](https://user-images.githubusercontent.com/72580574/232567357-cbeabaff-9a28-455c-84bb-a2a603d9d904.png)
+- Hay un **Trabajo práctico final**, es en equipos de 2 personas. La consigna es:
 
-## Separada en componentes:
 
-![image](https://user-images.githubusercontent.com/72580574/232567935-342a2625-1ec3-4f4a-bab5-b97b413a21cc.png)
+### DESARROLLO
 
-## Herramientas:
+-Crear el frontend para un sitio que consuma una API pública, utilizando:
 
-- **HTML5**
+-Un framework de frontend. Se propone Angular pero se admitirán otros. Quienes quieran utilizar otro deberán consultar con los profesores antes de hacerlo.
 
-- **CSS3**
+-Utilizar HTML5.
 
-- **JAVASCRIPT**
+-Maquetar los estilos usando de ser posible un framework (bootstrap, foundation, etc) o un preprocesador (less, sass, stylus).
 
-- **REACT**: [**react-router**](https://reactrouter.com/en/main/start/tutorial), **JSX**
+-Consumir información de 1 o más APIs públicas y que esta se vean reflejada como datos en el sitio/app
 
----
 
-### Getting Started with Create React App
+### REQUISITOS MINIMOS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sitio/Aplicación Web
 
-## Available Scripts
+- Que se pueda navegar desde una PC o celular sin perder información.
 
-In the project directory, you can run:
+- 2 secciones de contenido estático.
 
-### `npm start`
+- 1 sección de contenido dinámico consumiendo API pública a elección.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 1 sección con un formulario de contacto (implementación solo desde el front).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Sección protegida por usuario/clave que permita tener un área privada.
 
-##### `npm test`
+- 1 Listado ordenado por algún criterio.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 1 Listado con buscador por algún criterio (puede ser el mismo que el del ítem anterior).
 
-##### `npm run build`
+- El código debe estar publicado en un repositorio GIT abierto.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Buenas prácticas aplicadas para el front-end en general (html, css, js + angular ).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Datos de diferentes endpoint relacionados entre sí, por ejemplo películas asociadas a directores, o actores.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### REQUISITOS OPCIONALES
 
-### `npm run eject`
+- Roles o permisos de usuario según rol.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Publicar la web en un hosting online.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Sumar buenas prácticas de SEO. Explicar cinco (5) cambios o mejoras realizadas y cómo impactarían en el SEO del proyecto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### REPOSITORIO
 
-#### Learn More
+- El desarrollo deberá realizarse en una plataforma de git gratuita. Se recomienda GitLab o GitHub.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Se evaluará el uso de git: Frecuencia y responsables de los commits, uso de branches y merge.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- La creación del repositorio debe hacerse mediante un fork del repositorio del trabajo práctico (https://github.com/iamgld/angular-template-curso-2023).
 
-##### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### MODALIDAD DE ENTREGA Y DEFENSA DEL TRABAJO PRACTICO
 
-##### Analyzing the Bundle Size
+-La entrega final deberá hacerse enviando por email a los profesores la URL del repositorio de git, corroborando previamente que se pueda acceder públicamente a ese repositorio.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- En el archivo readme.md deberá indicarse, el trabajo, año de cursado e integrantes (legajo, nombre y apellido)
 
-##### Making a Progressive Web App
+- Se realizará en fecha a confirmar una defensa oral y virtual del TP, que no debe exceder los 20 minutos y en donde los alumnos mostrarán el trabajo realizado, narrando si tuvieron algún problema y como fue resuelto, pudiendo tener que responder preguntas de los docentes, si surgieran.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-##### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-##### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ---
