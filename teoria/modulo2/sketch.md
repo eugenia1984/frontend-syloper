@@ -3,7 +3,7 @@
 
 ---
 
-##:star: SKETCH :star:
+## :star: SKETCH :star:
 
 ### Consigna:
 
