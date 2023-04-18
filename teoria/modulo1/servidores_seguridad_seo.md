@@ -2,7 +2,7 @@
 
 ---
 
-## GLOSARIO
+## :star: GLOSARIO
 
 - Condicionales: permiten establecer reglas para validar si se aplica o no una acción, cambio o asignación en el atributo de un elemento.
 
@@ -96,7 +96,9 @@ A través del protocolo TLS, Seguridad en la capa de transporte, se brindan esta
 
 ---
 
-## BUENAS PRÁCTICAS: OPTIMIZACIÓN DE IMÁGENES
+## :star: BUENAS PRÁCTICAS: 
+
+### OPTIMIZACIÓN DE IMÁGENES
 
 - Tamaño de los elementos: Como se observa en el gráfico, las imágenes y los videos ocupan la mayor parte del espacio de la web, lo que afecta el rendimiento.
 
@@ -107,11 +109,7 @@ El objetivo principal de formatear tus imágenes es encontrar el equilibrio entr
 Hay más de una manera de realizar casi todas estas optimizaciones. Una de las formas más populares es simplemente comprimirlas antes de cargarlas. Normalmente, esto se puede hacer mediante una herramienta como Adobe Photoshop o Affinity Photo o en la web https://imagecompressor.com/es/.
 
 
-### ASPECTOS A CONSIDERAR.. 
-
-- Formato de archivo
-
-- Tipo de compresion
+ASPECTOS A CONSIDERAR: Formato de archivo y Tipo de compresion
 
 
 ELEGÍ EL FORMATO DE ARCHIVO CORRECTO: .jpg - .png - .gif. Elegir la combinación adecuada puede reducir el tamaño de la imagen. Tendrás que experimentar con cada imagen o formato de archivo para ver cuál funciona mejor.
@@ -137,7 +135,7 @@ UTILIZANDO SVGS: es una imagen vectorial en formato XML, que funciona muy bien p
 
 ---
 
-## SEO: CONCEPTOS BÁSICOS (Search Engine Optimization)
+## :star:  SEO: CONCEPTOS BÁSICOS (Search Engine Optimization)
 
 SEO significa “Search Engine Optimization”, es decir, Optimización de Motores de Búsqueda. 
 
@@ -187,13 +185,13 @@ El título de tu página principal puede incluir el nombre de tu sitio web o neg
 
 ## Contenido de la pagina
 
-Sugerencia
+- Sugerencia:
 
 ✦ Describí con precisión el contenido de la página.
 
 ✦ Elegí un título que resulte natural y comunique de forma eficaz el tema del contenido de la página.
 
-Evitar
+- Evitar:
 
 ✦ Elegir un título que no tenga relación con el contenido de la página.
 
@@ -218,7 +216,7 @@ La metaetiqueta de descripción de una página ofrece a Google y a otros buscado
 
 Las metaetiquetas de descripción son importantes, porque Google puede utilizarlas como fragmentos en los resultados de búsqueda de tus páginas.
 
-- Sugerencia
+- Sugerencia:
 
 ▪ Resumí de forma precisa el contenido de la página:
 
@@ -232,7 +230,7 @@ Las metaetiquetas de descripción son importantes, porque Google puede utilizarl
 
 De está manera, ayudás tanto a los usuarios como a Google, sobre todo si los usuarios realizan búsquedas que muestran varias páginas de tu dominio (por ejemplo, búsquedas con el operador site:). 
 
-- Evitar
+- Evitar:
 
 ▪ Que no tengan relación con el contenido de las páginas.
 
@@ -363,3 +361,137 @@ Te recomendamos que organices el contenido para que los usuarios sepan dónde te
 Al dividir el contenido en secciones o bloques lógicos, los usuarios pueden encontrar lo que buscan más rápidamente.
 
 - Evitá :  Escribir grandes cantidades de texto sobre varios temas en una página sin párrafos, subtítulos ni separaciones.
+ 
+ ### OPTIMIZÁ EL CONTENIDO PARA LOS USUARIOS, NO PARA LOS BUSCADORES
+
+Diseñá tu sitio web teniendo en cuenta las necesidades de los visitantes y, a la vez, asegurate de que los buscadores puedan acceder a él fácilmente. 
+
+
+Evitá:
+ 
+▪ Añadir demasiadas palabras clave innecesarias que vayan dirigidas a los buscadores y que puedan molestar o confundir a los usuarios.
+
+ ▪ Tener bloques de texto como "errores ortográficos frecuentes utilizados para llegar a esta página" que no aportan prácticamente nada a los usuarios.
+
+ ▪ Ocultar texto a los usuarios de forma engañosa, pero mostrarlo a los buscadores.
+
+ 
+ ### PROPORCIONÁ SUFICIENTE CONTENIDO SOBRE UN TEMA
+
+Para crear contenido de alta calidad, se necesita gran cantidad de al menos uno de estos factores: tiempo, dedicación, experiencia y talento. 
+ 
+El contenido debe ofrecer información precisa, estar redactado de manera clara y ser exhaustivo. 
+
+Evitá: ▪ Proporcionar contenido insuficiente para cumplir el objetivo de la página.
+ 
+---
+ 
+## :star: OPTIMIZACIÓN MÓVIL
+ 
+Existen varias opciones para optimizar tu sitio web para móviles, y Google admite varios métodos de implementación:
+
+▪ Diseño web adaptable (método recomendado)
+
+▪ Publicación dinámica.
+
+▪ URL independientes.
+
+>>> Una vez que hayas creado un sitio web optimizado para móviles, usá la  prueba de optimización para móviles de Google.
+ 
+---
+ 
+ ## :star: Promoción
+ 
+ 
+ ### REDES SOCIALES
+ 
+Los sitios web, creados para fomentar la interacción y el intercambio de información entre usuarios, han facilitado que se relacionen grupos de usuarios con intereses similares y contenido oportuno.
+
+
+- Evitá: ▪ Promocionar todas las novedades pequeñas; promociona solo las grandes e interesantes.
+
+ ### USUARIOS DE LA COMUNIDAD RELACIONADA A TU SITIO WEB..
+ 
+ Es probable que ya haya varios sitios web sobre temáticas similares a la tuya, y estar en contacto con ellos puede resultar útil. 
+Los temas más actuales de tu nicho o comunidad pueden darte ideas para crear contenido u ofrecer buenos recursos a los usuarios.
+
+
+- Evitá: ▪ Enviar solicitudes a todos los sitios web cuyo contenido esté relacionado con tu área temática para que incluyan enlaces a tu sitio web.
+
+ ###   RENDIMIENTO DE BÚSQUEDA
+ 
+ Los motores de búsqueda principales, incluido Google, proporcionan herramientas gratuitas con las que los webmasters pueden analizar el rendimiento de su sitio web en el motor de búsqueda que decidan. En el caso de Google, se trata de Search Console.
+Search Console da respuesta a dos preguntas importantes: 
+
+- ¿Puede Google encontrar mi contenido? 
+
+ - ¿Qué rendimiento tiene mi sitio web en los resultados de la Búsqueda de Google?
+
+### HERRAMIENTAS RECOMENDADAS PARA SEO
+
+✦ Wordtracker Scout - Extensión de Chrome: con esta herramienta podemos ver que usan nuestros competidores para mejorar su SEO.
+ 
+✦ Keyword Shitter: Nos permite generar keywords útiles para nuestra web según el tema que se vende.
+
+ ✦ Seoquake: Permite revisar todos los parámetros de SEO utilizados por una web.
+
+ ✦ SEO Minion- Extensión de Chrome: permite verificar la optimización SEO de una página web, los enlaces rotos, las vistas previas de SERP y cuenta con una simulación y comparación de SERP internacional.
+
+ 
+ ---
+ 
+ ## :star: W3C
+ 
+ ### Objetivos
+ 
+ El W3C, World Wide Web Consortium, tiene como misión guiar la web a través de desarrollar estándares, protocolos y pautas que aseguren el crecimiento de la web a largo plazo.
+
+
+Los principios en los que se fundamenta la misión y visión son:
+
+▪ Web para todo el mundo.
+
+▪ Web desde cualquier dispositivo.
+
+▪ Web de los Autores y Consumidores.
+
+▪ Web de los Datos y Servicios.
+
+▪ Web de Confianza.
+
+ ### Principios
+ 
+ Recordando la importancia que tiene la web en la educación y el desarrollo de las personas, el W3C considera que todos tienen que tener acceso a ella, generando iniciativas de accesibilidad y fomentando la internacionalización.
+ 
+De esta forma, se está ayudando a que personas no sean privadas de los beneficios, ya sea por contar con algún tipo de discapacidad o debido a la barrera del lenguaje.
+ 
+Además promueve la generación de contenido responsive, ya que el de dispositivo que tengas no debería ser un limitante para llegar a la web, y las ventajas que la misma trae.
+ 
+ ### Accesibilidad
+ 
+ Dedicando un párrafo aparte a la accesibilidad, no solo quienes podemos o sabemos leer usamos la web. Personas con capacidades diferentes hacen uso constante de los recursos a los que estamos tan acostumbrados de internet.
+Algunas buenas prácticas accesibles incluyen el uso de atributos como alt, aria y role, generación de subtítulos para videos, transcripciones para audios, tamaños apropiados para elementos web interactivos y un buen contraste de color, entre otros.
+
+ 
+ ###Visión
+ 
+ La web nació como un espacio de comunicación, y durante mucho tiempo la gente "solo leía". 
+ 
+Esto es muy diferente hoy, dado que la gente genera y consume contenido. Por este motivo, se generaron patrones y arquitecturas de diseño, y se han creado enormes repositorios de datos y servicios, siendo importante saber distinguir y comprender los requisitos de cada uno. 
+ 
+Además, la naturaleza social de nuestras relaciones ha llevado a interacciones cada vez más complejas, que incluso pueden ser sólo digitales, por lo que la confianza y seguridad son fundamentales para construir hacia adelante.
+
+---
+ 
+ ## :book: Material ampliado
+ 
+ 
+✦ Escanea tu web para SEO (alternativa 1) | GTmetrix
+ 
+✦ Escanea tu web para SEO (alternativa 2) | Screamingfrog
+ 
+✦ Simulador de tags SEO (alternativa 1) | Mangools
+ 
+✦ Simulador de tags SEO (alternativa 2) | HEY META
+ 
+ ---
