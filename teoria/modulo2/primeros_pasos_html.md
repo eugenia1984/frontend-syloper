@@ -91,6 +91,59 @@ Todas las etiquetas que van dentro del ``<body> </body>`` se dividen en dos grup
 
 Existen 6 niveles: del`` <h1> </h1>`` al`` <h6> </h6>``. Esta jerarquía se debe respetar en cada documento HTML que forme parte del sitio web.
 
-![image](https://user-images.githubusercontent.com/72580574/232804688-70330e4a-6432-449c-bab5-3e5c0c425de8.png)
+
+![image](https://user-images.githubusercontent.com/72580574/232804998-7e563be5-2a3f-486a-9430-799b3589110a.png)
 
 
+## ETIQUETAS HTML
+
+- ``<p></p>``
+
+- ``<br/>`` (de bloque)
+
+- ``<em>`` (de línea)
+
+- ``<strong>`` (de línea)
+
+- ``<div>`` (de bloque)
+
+- ``<span>`` (de línea)
+
+
+Utilizaremos todas estas etiquetas en nuestro primer ejemplo de estructura web:
+
+![image](https://user-images.githubusercontent.com/72580574/232805451-f8ca8c55-d1ba-45c4-849e-bf6bf4631fa8.png)
+
+HTML5 incorpora etiquetas semánticas que no sólo generan estructura, sino que también definen su contenido.
+
+![image](https://user-images.githubusercontent.com/72580574/232805546-cafbfc08-ff03-4a25-a830-7f1056f6f8de.png)
+
+## CREA UN DOCUMENTO NUEVO
+
+En el editor de texto, creá un documento nuevo llamado “index.html”. Escribí con etiquetas HTML:
+
+
+- Nombre y apellido: tu nombre y apellido.
+
+- Nombre del docente: su nombre y apellido.
+
+
+Guardá, abrí el archivo en el browser de tu preferencia, y observá el resultado.
+
+## WIREFRAME Y ESQUELETO HTML
+
+1. Creá un wireframe en Balsamiq, Mockflow o similar, basado en el sketch diseñado en clase. 
+Debe tener un encabezado, un logo y un pie de página.
+
+
+2. Creá el esqueleto en HTML de la página principal, usando el wireframe como base.
+
+---
+
+## MATERIAL AMPLIADO
+
+- [¿Como funciona un DNS?](https://www.youtube.com/watch?v=dIGxJCqLJlY)
+
+- [Software para prototipar](https://mzl.la/2PCaR3h)
+
+- [Referencia de elementos HTML5](https://mzl.la/2PCaR3h)
