@@ -4,11 +4,11 @@
 
 ## :book: Temas:
 
-- 5 - Prototipado y conceptos básicos
+- [5 - Prototipado y conceptos básicos](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo2/prototipado.md)
 
-- 6 - Sketch + HTML
+- [6 - Sketch + HTML](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo2/sketch.md)
 
-- 7 - Primeros pasos con HTML
+- [7 - Primeros pasos con HTML](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo2/primeros_pasos_html.md)
 
 - 8 - Incluyendo CSS básico en nuestro proyecto
 
@@ -46,19 +46,6 @@
 - **Balsamiq o MockFlow**: son herramientas que facilitan la creación de esquemas o mockups. Su finalidad es ayudar al desarrollo de aplicaciones.
 
 - **Terminal o consola**: es la aplicación que se utiliza para interactuar con la computadora a través de comandos.
-
----
-
-## :star: 5 - Prototipado y conceptos básicos
-
-
----
-
-## :star: 6 - Sketch + HTML
-
----
-
-## :star: 7 - Primeros pasos con HTML
 
 ---
 
