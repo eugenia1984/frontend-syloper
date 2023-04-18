@@ -2,7 +2,7 @@
 
 ---
 
-## GLOSARIO
+## :book: GLOSARIO
 
 - **Sketch**: es un dibujo rápido o bosquejo guía, que reproduce de manera muy sencilla un concepto, una idea o generalidad de un proyecto.
 
