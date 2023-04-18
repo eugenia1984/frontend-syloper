@@ -2,7 +2,7 @@
 
 - [MÓDULO 1](https://github.com/eugenia1984/frontend-syloper/tree/main/teoria/modulo1): GLOSARIO / GIT / GITBUH / BUENAS PRÁCTICAS DE GIT Y GITHUB / SERVIDORES, SEGURIDAD Y SEO PARA TU SITIO
 
-- [MÓDULO 2](https://github.com/eugenia1984/frontend-syloper/tree/main/teoria/modulo2)
+- [MÓDULO 2](https://github.com/eugenia1984/frontend-syloper/tree/main/teoria/modulo2): PROTOTIPADO Y CONCEPTOS BÁSICOS / SKETCH + HTML / PROMEROS PASOS CON HTML / INCLUYENDO CSS BÁSICO EN NUESTRO PROYECTO / MEDIDAS, COLORES Y FUENTES EN CSS
 
 - [MÓDULO 3](https://github.com/eugenia1984/frontend-syloper/tree/main/teoria/modulo3)
 
