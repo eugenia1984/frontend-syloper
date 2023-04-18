@@ -3,8 +3,43 @@
 
 ---
 
+##:star: SKETCH :star:
 
-## HTML
+### Consigna:
+
+
+1. Creá un sketch del sitio web con el tema que crearás para tu Proyecto final. Pensá qué secciones podría tener, e incluí un encabezado, un logo y un pie de página.
+
+2. Construí el esqueleto en HTML semánticamente correcto de la sección principal de la WEB, utilizando las etiquetas HTML vistas.
+
+
+### Aspectos a incluir en el entregable:
+
+
+1. Wireframe: Diseñar un encabezado, logo y pie de página. Pensar qué secciones podría tener la primera página del sitio.
+
+2. HTML: Incorporar la estructura básica de html5. Incluir las etiquetas vistas usando el wireframe como base.
+
+##  Formato: 
+
+El sketch deberá entregarse en formato papel, MockFlow o Balsamiq, mientras que el esqueleto en HTML en Sublime Text o VisualStudio. 
+Utilizá el nombre “Idea+Apellido”.
+
+
+## Sugerencia: 
+
+Elegí la temática para el proyecto final y realizá las tareas en base a ello.
+
+## MODALIDAD DE ENTREGA
+
+El ejercicio se entrega a través del Classroom correspondiente a este curso.
+
+El archivo debe estar identificado con nombre, apellido, número de clase y de ejercicio.
+
+
+---
+
+## :star: HTML :star:
 
 Es un "lenguaje" de marcado de etiquetas, que permite crear documentos para web. 
 
