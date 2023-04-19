@@ -16,7 +16,11 @@
 
 - MATERIAL AMPLIADO
 
---
+- EJERCICIO CSS 1
+
+- EJERCICIO CSS 2
+
+---
 
 ## :book: GLOSARIO
 
@@ -259,5 +263,38 @@ Se ve así porque 100 es lo más delgado posible:
 - [Aplicacion para generar paletas de colores-Pallete App](https://palettte.app/)
 
 - [Aplicacion para generar paletas de colores- Lyft Design](https://www.colorbox.io/)
+
+---
+
+## :star: EJERCICIO CSS 2 :star:
+
+**Consigna**: asigná estilos vistos en esta clase al proyecto final, en función de lo que tenías en mente gracias al boceto.
+
+
+> **Aspectos que deberías incluir**:
+
+Incluir de acuerdo a tu proyecto algunas de las propiedades vistas:
+
+- Texto: font-style, font-weight, font-size, font-family, text-align, text-transform, line-height, text-decoration, letter-spacing y/o word-spacing.
+
+- Listas: list-style-type, list-style-position y/o list-style.
+
+- Fondos: background-color, background-image, background-repeat, background-position y/o background-size.
+
+- Tipografía de Google Fonts.
+
+---
+
+## :star: EJERCICIO CSS 2 :star:
+
+> **Consigna**: Agregar a tu proyecto:
+
+
+- Aplicar camelCase a las variables del proyecto.
+
+- Estructurar cada una de las páginas que se diferencien las secciones del contenido, como por ejemplo:
+
+![image](https://user-images.githubusercontent.com/72580574/232943150-ef2fffd1-7813-4dde-aeca-2a0a8c4fdb3f.png)
+
 
 ---
