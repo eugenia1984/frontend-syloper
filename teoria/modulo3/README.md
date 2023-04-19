@@ -18,7 +18,7 @@
 ## :star: 10 - BOX MODELING 
 
 
-##:star: GLOSARIO
+## :star: GLOSARIO
 
 - Joroba de camello: permite que se puedan leer de forma más simple palabras compuestas.
 
@@ -45,7 +45,7 @@ Viewport: se utilizan para layouts responsivos (más adelante).
 
 ## Propiedades de la caja
 
-Todos los elementos del HTML son cajas. Un <strong>, un <h2> y demás, son rectangulares: 
+Todos los elementos del HTML son cajas. Un ``<strong>``, un`` <h2>`` y demás, son rectangulares: 
 
 - En los elementos de línea, se verá uno al lado del otro. 
 
