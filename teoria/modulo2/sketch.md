@@ -3,6 +3,14 @@
 
 ---
 
+## :book: Temas:
+
+- sketch / Trabajo práctico 
+
+- HTML: convenio de archivos, documento predeterminado.
+
+---
+
 ## :star: SKETCH :star:
 
 ### Consigna:
@@ -13,24 +21,24 @@
 2. Construí el esqueleto en HTML semánticamente correcto de la sección principal de la WEB, utilizando las etiquetas HTML vistas.
 
 
-### Aspectos a incluir en el entregable:
+#### Aspectos a incluir en el entregable:
 
 
 1. Wireframe: Diseñar un encabezado, logo y pie de página. Pensar qué secciones podría tener la primera página del sitio.
 
 2. HTML: Incorporar la estructura básica de html5. Incluir las etiquetas vistas usando el wireframe como base.
 
-##  Formato: 
+####  Formato: 
 
 El sketch deberá entregarse en formato papel, MockFlow o Balsamiq, mientras que el esqueleto en HTML en Sublime Text o VisualStudio. 
 Utilizá el nombre “Idea+Apellido”.
 
 
-## Sugerencia: 
+#### Sugerencia: 
 
 Elegí la temática para el proyecto final y realizá las tareas en base a ello.
 
-## MODALIDAD DE ENTREGA
+#### MODALIDAD DE ENTREGA
 
 El ejercicio se entrega a través del Classroom correspondiente a este curso.
 
@@ -52,7 +60,7 @@ Los siguientes términos serán de uso frecuente:
 
 ✱ Estructura.
 
-## CONVENIO DE ARCHIVOS
+#### CONVENIO DE ARCHIVOS
 
 ✦ No deben tener espacios, acentos, eñes, ni símbolos o si son varias palabras usar guiones “ - “ o “ _ “ ej: “mi-pagina-web”.
 
@@ -62,6 +70,6 @@ Los siguientes términos serán de uso frecuente:
 
 IMPORTANTE: al guardar archivos en Windows, verificar que no se guarden con la doble extensión de archivos (archivo.html.txt)
 
-## DOCUMENTO PREDETERMINADO
+#### DOCUMENTO PREDETERMINADO
 
 Es el archivo que se carga cuando todavía no hiciste clic  en ningún link. Debe llamarse index.html, ya que es el nombre estandarizado. 
