@@ -4,9 +4,9 @@
 
 ## :book: Temas:
 
-- [5 - Prototipado y conceptos básicos](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo2/prototipado.md)
+- [5 - Prototipado y conceptos básicos](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo2/prototipado.md): sketch / Wireframe / mockup / Prototipo: tips para armar un buen prototipo / A practicar
 
-- [6 - Sketch + HTML](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo2/sketch.md)
+- [6 - Sketch + HTML](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo2/sketch.md): sketch / Trabajo práctico / HTML: convenio de archivos, documento predeterminado.
 
 - [7 - Primeros pasos con HTML](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo2/primeros_pasos_html.md): glosario / Etiquetas HTML: atributos de las etiquetas, anidar etiquetas, sintaxis del código, etiquetas cerradas y abiertas / Estructura básica / DOCTYPE / Tipos de etiquetas: grupo general / Listas: tipo de listas, ¿viñetas o números?, anidar listas / Práctica / 
 Tablas: etiquetas básicas para tablas en html / Formularios: etiqueta form(action, method, enctype), ingreso de texto, botones, atributo value, controles de selección, etiqueta label, menu desplegable, conjunto de campos / Enlaces: arquitectura de un sitio, enlaces relativos, absolutos e internos / Práctica / Material ampliado/ Material ampliado
