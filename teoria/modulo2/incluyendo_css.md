@@ -30,6 +30,8 @@
 
 - MATERIAL AMPLIADO
 
+- INCLUYENDO CSS BASICO
+
 ---
 
 ## :book: GLOSARIO
@@ -361,3 +363,21 @@ red, green, blue) Cada color permite hasta 256 valores.
 - [jardín zen CSS](http://www.csszengarden.com/)
   
 ---  
+
+## :star: INCLUYENDO CSS BASICO :star:
+
+### Consigna
+
+1. Creá un archivo CSS, y linkealo al HTML entregado en el desafío de la clase anterior, esto es, “Primeros pasos con HTML”. Asigná color a títulos, párrafos y listas, mediante clases y etiquetas.
+
+
+2. Opcionales:
+
+- Tomando como base las estructuras creadas en HTML de la clase 2 para tu proyecto, dar formato al menú, color a los títulos, formato a las listas a través de etiquetas.
+
+- Agregar videos e imágenes a alguna de las secciones del proyecto y darle formato a los títulos de las tablas, agregando color. 
+
+- Se evaluará el estilo y estructura del código.
+
+
+---
