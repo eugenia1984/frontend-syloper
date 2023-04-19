@@ -1,4 +1,4 @@
-# :star: MÓDULO 2
+# :star: MÓDULO 6
 
 ---
 
