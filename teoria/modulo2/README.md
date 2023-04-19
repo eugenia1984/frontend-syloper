@@ -13,7 +13,7 @@ Tablas: etiquetas básicas para tablas en html / Formularios: etiqueta form(acti
 
 - [8 - Incluyendo CSS básico en nuestro proyecto](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo2/incluyendo_css.md):  MULTIMEDIA EN HTML: imáges, video, audio, iframe /  A PRACTICAR /  BASE DE CSS: premisas, sintaxis CSS, padres e hijos, insertar CSS /  CLASS /  ATRIBUTO ID /  CLASS VS. ID / - HERENCIA Y CASCADA / PROCEDENCIA DE DECLARACIONES  / ESTILOS INLINE  /  ESPECIFICIDAD  /  PRIMERAS PROPIEDADES BÁSICAS: COLOR /  A PRACTICAR /  MATERIAL AMPLIADO / EJERCICIO CSS BASICO
 
-- 9 - Medidas, colores y fuentes en CSS
+- [9 - Medidas, colores y fuentes en CSS](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo2/medidas.md):  ESTILOS PARA TEXTO: font-style, font-weight, font-size, font-family, text- align, text-transform, line-height, text-decoration, letter-spacing, word-spacing / ESTILOS PARA LISTAS: list-style-type, list-style-image, list-style-position, list-style(abreviacion) /  ESTILOS PARA FONDOS : background-color,  background-image,  background-repeat,  background-position,  background-size /  UNIDADES DE MEDIDAS /  TIPOGRAFÍA / MATERIAL AMPLIADO / EJERCICIO CSS 1 / EJERCICIO CSS 2
 
 ---
 
