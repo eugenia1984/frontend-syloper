@@ -16,7 +16,9 @@
 
 5. Diseño final
 
-## SKETCH
+---
+
+## :star: SKETCH :star:
 
 Es un dibujo rápido o bosquejo guía, que reproduce de manera muy sencilla un concepto, una idea o generalidad de un proyecto. 
 
@@ -24,7 +26,9 @@ Sirve para “bajar a tierra” las ideas, en un contexto como el del software q
 
 ![image](https://user-images.githubusercontent.com/72580574/232798021-eb4048ef-5cc6-48c8-a867-402115ddddff.png)
 
-## WIREFRAME
+---
+
+## :star: WIREFRAME :star:
 
 Es la representación estática, en baja calidad, de un diseño. 
 
@@ -38,13 +42,17 @@ Se definen, para una mejor comprensión, los siguientes aspectos:
 
 ![image](https://user-images.githubusercontent.com/72580574/232798256-00d47195-2f4f-44af-b7e6-b16bc327387c.png)
 
-## MOCKUP
+---
+
+## :star: MOCKUP :star:
 
 Es la representación estática de un diseño, en calidad media o alta.
 
 ![image](https://user-images.githubusercontent.com/72580574/232798384-194a4742-a6b2-427f-9867-6d739e836bde.png)
 
-## PROTOTIPO
+---
+
+## :star: PROTOTIPO :star:
 
 Es la representación navegable del producto final.
 
@@ -74,7 +82,9 @@ Es la representación navegable del producto final.
 - **Releva sitios webs**: En la primera etapa, es fundamental entrenar el ojo y mirar los sitios webs que ya conoces, así como descubrir nuevos con ojos de diseñador/a. 
 Te recomendamos visitar awwwards, que reúne y premia los mejores sitios de la red.
 
-## ¡A PRACTICAR!
+---
+
+## :star: ¡A PRACTICAR! :star:
 
 1. Creá un sketch en papel: Diseñá un sketch en papel, con aquello que incluiría el sitio web que crearás para tu Proyecto Final. Pensá qué secciones podría tener. Debe tener un encabezado, un logo y pie de página. 
 
