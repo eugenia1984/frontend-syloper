@@ -229,7 +229,7 @@ Es probable que te veas en la necesidad de crear una estructura de sublistas com
 
 ---
 
-## TABLAS
+## :star: TABLAS :star:
 
 Son un conjunto de celdas organizadas, dentro del cual es posible alojar distintos contenidos. HTML dispone de una gran variedad de etiquetas y atributos para crear tablas.
 
@@ -253,7 +253,7 @@ La etiqueta`` <table> </table>`` acepta 3 atributos de “diseño”:
 
 ---
 
-## :star:  FORMULARIOS
+## :star:  FORMULARIOS :star:
 
 Son etiquetas donde el usuario ingresará o seleccionará valores, que serán enviados a un archivo encargado de procesar la información.
 
@@ -289,7 +289,7 @@ Existen dos métodos comunes en el HTML:
 - POST: la información viajará junto a los encabezados del HTML (será “invisible”).
 Si el method no se indica, por defecto será GET.
 
-## ENCTYPE
+### ENCTYPE
 
 
 Cuando el valor del atributo method es post, el mismo es el  tipo MIME del contenido, que es usado para enviar el formulario al servidor.
@@ -371,7 +371,7 @@ Su principal atributo es “for”, que va a referenciar a “label” con su el
 
 ![image](https://user-images.githubusercontent.com/72580574/232812457-c9f7250b-f038-49d6-8d31-7f4016be68c2.png)
 
-## MENU DESPLEGABLE
+### MENU DESPLEGABLE
 
 Es el llamado combo-box, selector o menú. De toda la lista, se puede elegir una opción (aunque tiene un atributo que permite cambiarlo). Lo ideal es que sean al menos dos elementos distintos para observar el select:
 
@@ -386,8 +386,9 @@ La primera tiene como objetivo crear grupos de elementos del formulario que pose
 
 ![image](https://user-images.githubusercontent.com/72580574/232812889-4d8491ee-a005-4896-a60c-fc39fb35d336.png)
 
+---
 
-## ENLACES
+## :star: ENLACES :star:
 
 ### ARQUITECTURA DE UN SITIO
 
@@ -449,7 +450,9 @@ En el editor de texto, creá un documento nuevo llamado “index.html”. Escrib
 
 Guardá, abrí el archivo en el browser de tu preferencia, y observá el resultado.
 
-## WIREFRAME Y ESQUELETO HTML
+---
+
+##  :star: WIREFRAME Y ESQUELETO HTML :star:
 
 1. Creá un wireframe en Balsamiq, Mockflow o similar, basado en el sketch diseñado en clase. 
 Debe tener un encabezado, un logo y un pie de página.
@@ -462,7 +465,7 @@ Debe tener un encabezado, un logo y un pie de página.
 ---
 
 
-## MATERIAL AMPLIADO
+## :book: MATERIAL AMPLIADO
 
 - [¿Como funciona un DNS?](https://www.youtube.com/watch?v=dIGxJCqLJlY)
 
