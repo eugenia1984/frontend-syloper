@@ -11,7 +11,7 @@
 - [7 - Primeros pasos con HTML](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo2/primeros_pasos_html.md): glosario / Etiquetas HTML: atributos de las etiquetas, anidar etiquetas, sintaxis del código, etiquetas cerradas y abiertas / Estructura básica / DOCTYPE / Tipos de etiquetas: grupo general / Listas: tipo de listas, ¿viñetas o números?, anidar listas / Práctica / 
 Tablas: etiquetas básicas para tablas en html / Formularios: etiqueta form(action, method, enctype), ingreso de texto, botones, atributo value, controles de selección, etiqueta label, menu desplegable, conjunto de campos / Enlaces: arquitectura de un sitio, enlaces relativos, absolutos e internos / Práctica / Material ampliado/ Material ampliado
 
-- 8 - Incluyendo CSS básico en nuestro proyecto
+- [8 - Incluyendo CSS básico en nuestro proyecto](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo2/incluyendo_css.md):  MULTIMEDIA EN HTML: imáges, video, audio, iframe /  A PRACTICAR /  BASE DE CSS: premisas, sintaxis CSS, padres e hijos, insertar CSS /  CLASS /  ATRIBUTO ID /  CLASS VS. ID / - HERENCIA Y CASCADA / PROCEDENCIA DE DECLARACIONES  / ESTILOS INLINE  /  ESPECIFICIDAD  /  PRIMERAS PROPIEDADES BÁSICAS: COLOR /  A PRACTICAR /  MATERIAL AMPLIADO
 
 - 9 - Medidas, colores y fuentes en CSS
 
