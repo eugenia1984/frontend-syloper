@@ -16,6 +16,8 @@
 
 - GRIDS MOBILE FIRST: media queries, breakpoints, tablet, desktop, meta viewport
 
+- EJERCICIO
+
 ---
 ---
 
@@ -328,6 +330,399 @@ De esta forma, se aproxima a lo que queremos... sólo nos falta darle unas decor
 ---
 ---
 
-- PROPIEDADES DEL HIJO: distribución de elementos, justify-items(strech, start, end, center) y align-items(stretch, start, end, center), posición de elementos: justify-content(start, end, center, stretch, space-around, space-between, space-evenly), aling-content(start, end, center, stretch, space-around, space-between, space-evenly), posición de elementos: justify-self, elign-self, grid-area
+## :star:PROPIEDADES DEL HIJO:star:
 
-- GRIDS MOBILE FIRST: media queries, breakpoints, tablet, desktop, meta viewport
+## distribución de elementos
+
+Existen propiedades que se pueden utilizar para colocar los ítems dentro de la cuadrícula. Es posible distribuir los elementos de una forma muy sencilla y cómoda: justify-items y align-items, que ya conocemos del módulo CSS Flexbox:
+
+![image](https://user-images.githubusercontent.com/72580574/233431684-53bcf312-e644-4ccb-8f95-e34b364f6f95.png)
+
+##  JUSTIFY-ITEMS Y ALIGN-ITEMS 
+
+La grilla está, pero las celdas “se achican”, se ajustan.
+Estas propiedades trabajan sobre la celda:
+
+![image](https://user-images.githubusercontent.com/72580574/233431790-a0f9d9ee-40ac-4883-8fc6-98226a7ef46c.png)
+
+La grilla está, pero las celdas “se achican”, se ajustan. Estas propiedades trabajan sobre la celda:
+
+![image](https://user-images.githubusercontent.com/72580574/233431951-fe792b6c-3362-4c04-85ea-d863aef66ee7.png)
+
+![image](https://user-images.githubusercontent.com/72580574/233431979-a1a634f6-886a-43d5-8614-5eb38fa85447.png)
+
+
+## justify-items: strech
+
+Alineando el contenido dentro de las celdas, de forma horizontal :
+
+![image](https://user-images.githubusercontent.com/72580574/233432243-3bd2ca72-0c9c-468a-a813-09b2354b03e2.png)
+
+
+## justify-items: start
+
+Alineando el contenido dentro de las celdas, de forma horizontal :
+
+![image](https://user-images.githubusercontent.com/72580574/233432293-fe1ea64d-272f-4403-877b-9564ca02459d.png)
+
+## justify-items: end
+
+Alineando el contenido dentro de las celdas, de forma horizontal :
+
+![image](https://user-images.githubusercontent.com/72580574/233432366-16adb523-6276-44ad-b2c2-aa75600ef13b.png)
+
+
+## justify-items: center
+
+Alineando el contenido dentro de las celdas, de forma horizontal :
+
+![image](https://user-images.githubusercontent.com/72580574/233432418-5dd04458-c69e-4f9b-982a-696f22d74a23.png)
+
+## align-items: stretch
+
+Alineando el contenido dentro de las celdas, de forma vertical
+
+![image](https://user-images.githubusercontent.com/72580574/233432869-3daba3e9-07c6-4ee4-b6cb-c3bb7cd63f75.png)
+
+---
+
+## align-items: start
+
+Alineando el contenido dentro de las celdas, de forma vertical :
+
+![image](https://user-images.githubusercontent.com/72580574/233433000-f846db23-95e9-4350-bee3-326b14547d69.png)
+
+
+## align-items:  end
+
+Alineando el contenido dentro de las celdas, de forma vertical :
+
+
+![image](https://user-images.githubusercontent.com/72580574/233433070-cc522947-268f-4812-a2fe-7265c25dbcb8.png)
+
+## align-items: center
+
+Alineando el contenido dentro de las celdas, de forma vertical :
+
+![image](https://user-images.githubusercontent.com/72580574/233433120-8eaee19e-378f-4aee-9ef9-ccb744ee2ca4.png)
+
+---
+
+## posición de elementos
+
+Es posible utilizar las propiedades justify-content o align-content para cambiar la distribución de todo el contenido en su conjunto. 
+
+
+![image](https://user-images.githubusercontent.com/72580574/233433241-0ff34c14-cfea-4313-ad28-bc46f671c71a.png)
+
+## justify-content: start
+
+Alineando todo el conjunto de celdas, de forma horizontal. Dentro de su “padre” (es requisito que tenga ancho).
+
+![image](https://user-images.githubusercontent.com/72580574/233433626-aabc395a-a571-42f9-bf75-610e172d4207.png)
+
+
+## justify-content: end
+
+Alineando todo el conjunto de celdas, de forma horizontal. Dentro de su “padre” (es requisito que tenga ancho).
+
+![image](https://user-images.githubusercontent.com/72580574/233433677-d190a169-f80f-40ee-84f1-7a64033d9180.png)
+
+
+## justify-content: center
+
+Alineando todo el conjunto de celdas, de forma horizontal. Dentro de su “padre” (es requisito que tenga ancho).
+
+![image](https://user-images.githubusercontent.com/72580574/233433734-c43c5640-011b-431a-be57-29925dbeb099.png)
+
+
+## justify-content: stretch
+
+Alineando todo el conjunto de celdas, de forma horizontal. Dentro de su “padre” (es requisito que tenga ancho).
+
+![image](https://user-images.githubusercontent.com/72580574/233433783-ce086b57-8f3a-4c8a-bcdb-7d457134f65f.png)
+
+
+## justify-content: space-around
+
+Alineando todo el conjunto de celdas, de forma horizontal. Dentro de su “padre” (es requisito que tenga ancho).
+
+![image](https://user-images.githubusercontent.com/72580574/233433837-6522778e-ee84-446e-bc9f-4485e0f0a7fe.png)
+
+
+## justify-content: space-between
+
+Alineando todo el conjunto de celdas, de forma horizontal. Dentro de su “padre” (es requisito que tenga ancho).
+
+![image](https://user-images.githubusercontent.com/72580574/233433896-3615bbb5-ced8-4649-b1dd-8a60fb44de27.png)
+
+
+## justify-content: space-evenly
+
+Alineando todo el conjunto de celdas, de forma horizontal. Dentro de su “padre” (es requisito que tenga ancho).
+
+![image](https://user-images.githubusercontent.com/72580574/233433953-f789d6eb-fc17-427c-8460-86bf0e971952.png)
+
+
+---
+
+## aling-content: start
+
+Alineando todo el conjunto de celdas, de forma vertical. 
+Dentro de su “padre” (es requisito que tenga altura).
+
+![image](https://user-images.githubusercontent.com/72580574/233434309-0d6e4310-e0f9-498b-86b6-d5822d5f689f.png)
+
+
+## aling-content: end
+
+Alineando todo el conjunto de celdas, de forma vertical. 
+Dentro de su “padre” (es requisito que tenga altura).
+
+![image](https://user-images.githubusercontent.com/72580574/233434374-f8448acd-86f8-42d1-a7b8-e346838f8dac.png)
+
+
+## aling-content:  center
+
+Alineando todo el conjunto de celdas, de forma vertical.
+
+Dentro de su “padre” (es requisito que tenga altura).
+
+![image](https://user-images.githubusercontent.com/72580574/233434423-40fb6784-6343-4ebd-a7ff-8ad348693684.png)
+
+
+## aling-content:  stretch
+
+Alineando todo el conjunto de celdas, de forma vertical. 
+Dentro de su “padre” (es requisito que tenga altura).
+
+![image](https://user-images.githubusercontent.com/72580574/233434483-e73f6217-d8e5-43bb-a9f0-29b09e3c204d.png)
+
+## aling-content:  space-around
+
+Alineando todo el conjunto de celdas, de forma vertical. 
+Dentro de su “padre” (es requisito que tenga altura).
+
+![image](https://user-images.githubusercontent.com/72580574/233434565-5af57927-b79e-49c0-a72e-e6e23c7c7482.png)
+
+
+## aling-content:  space-between
+
+Alineando todo el conjunto de celdas, de forma vertical. 
+Dentro de su “padre” (es requisito que tenga altura).
+
+![image](https://user-images.githubusercontent.com/72580574/233434716-90145d4e-c498-4c9b-bb99-8e14275c3756.png)
+
+## aling-content:  space-evenly
+
+Alineando todo el conjunto de celdas, de forma vertical. 
+Dentro de su “padre” (es requisito que tenga altura).
+
+![image](https://user-images.githubusercontent.com/72580574/233434836-85d28ead-02b3-4b51-9508-7fc7780d6c4a.png)
+
+---
+
+## posición de elementos: 
+
+
+Hasta ahora hemos visto propiedades CSS que se aplican solamente al contenedor padre de una cuadrícula. Ahora vamos a ver ciertas propiedades que se aplican a cada ítem hijo de la cuadrícula, para alterar o cambiar el comportamiento específico de dicho elemento. 
+
+![image](https://user-images.githubusercontent.com/72580574/233435032-206f2114-80c4-4272-917a-17bf00297f78.png)
+
+
+
+## justify-self: start
+
+
+Alinea específicamente a la celda (item, hijo) que necesites, de forma horizontal:
+
+![image](https://user-images.githubusercontent.com/72580574/233435093-9c6bb6ca-f03d-4b8d-bde3-c2bf01c24f30.png)
+
+
+## justify-self: end
+
+Alinea específicamente a la celda (item, hijo) que necesites, de forma horizontal:
+
+![image](https://user-images.githubusercontent.com/72580574/233435191-823d93d7-1af3-411f-b7d4-5bd03062dd7b.png)
+
+## justify-self: center
+
+Alinea específicamente a la celda (item, hijo) que necesites, de forma horizontal:
+
+![image](https://user-images.githubusercontent.com/72580574/233435263-e26d71c5-1e1c-4a22-9eae-56514ff95b28.png)
+
+---
+
+
+## align-self: start
+
+Alinea específicamente a la celda (item, hijo) que necesites, de forma vertical:
+
+![image](https://user-images.githubusercontent.com/72580574/233435639-3895deb4-efee-43e9-9bd4-e6a3fda1a920.png)
+
+
+## align-self: end
+
+Alinea específicamente a la celda (item, hijo) que necesites, de forma vertical:
+
+![image](https://user-images.githubusercontent.com/72580574/233435719-2914aff8-94a6-4de0-96ba-d8235289420e.png)
+
+## align-self:  center
+
+Alinea específicamente a la celda (item, hijo) que necesites, de forma vertical:
+
+![image](https://user-images.githubusercontent.com/72580574/233435807-920ef921-94dc-4dce-9a8c-feb69ca0adc6.png)
+
+## align-self: stretch
+
+Alinea específicamente a la celda (item, hijo) que necesites, de forma vertical:
+
+![image](https://user-images.githubusercontent.com/72580574/233436038-84788f58-b58f-49c0-ace4-9e08abc7f99d.png)
+
+
+
+
+---
+---
+
+## :star:GRIDS MOBILE FIRST:star:
+
+![image](https://user-images.githubusercontent.com/72580574/233436143-1ca6b4ca-f345-40b8-b2e0-19f04c084949.png)
+
+## Mobile First
+
+Antes de hablar de “Mobile-First”, debemos hacer una referencia al llamado diseño responsive. 
+
+Se refiere a la idea de que un sitio web debería mostrarse igual de bien en todo tipo de dispositivo, desde monitores de pantalla panorámica hasta teléfonos móviles.
+
+Es un enfoque para el diseño y desarrollo web que elimina la distinción entre la versión amigable para dispositivos móviles de un sitio web, y su contraparte de escritorio. Con un diseño responsive, ambos son lo mismo.
+
+Mobile First significa crear el código primero para los dispositivos más pequeños que los usuarios probablemente tengan, como teléfonos o tabletas. Implica trabajar en el dispositivo más pequeño, y luego acumular desde allí todo en el mismo código y el mismo proyecto, en lugar de hacer uno nuevo para cada tamaño de pantalla. 
+
+Se recomienda :
+
+- Trabajar el código para que se reproduzca perfectamente en un teléfono.
+
+- Luego ajustar para que se ejecute en una tableta.
+
+- Por último, en un dispositivo de escritorio.
+
+## media queries
+
+Cualquier estilo dentro del siguiente Media Querie se ejecutará cuando el tamaño de la pantalla sea de al menos 768px de ancho (tablet, portrait, iPad Mini), pero no cuando el tamaño de la pantalla sea menor:
+
+```CSS
+@media only screen and (min-width: 768px) {
+    .body {
+            background-color: #000000;
+      }
+}
+```
+
+El diseño responsive se logra a través de "Media Queries" de CSS. Pensemos en las Media Queries como una forma de aplicar condicionales a las reglas de CSS. Estas últimas le indican al navegador qué reglas debe ignorar o aplicar, dependiendo del dispositivo del usuario.
+
+## breakpoints
+
+![image](https://user-images.githubusercontent.com/72580574/233436517-1f9c179e-8dae-485e-a552-918b0a857627.png)
+
+### Grids mobile first
+
+1. Estructura HTML.
+
+2. Asígnale a tu contenedor la propiedad de 
+display: grid;
+
+3. Luego asigna el número de columnas y filas que tendrá tu grilla, así como un espacio de separación.
+
+4. Define el área que ocupará cada caja de tu contenedor. Asígnales un nombre y un color característico.
+
+5. Determina cómo quieres que cada área sea acomodada en tu layout.
+
+
+
+## tablet
+
+Siguiendo el ejemplo de las grillas por áreas:
+
+- Para la versión tablet, lo primero que haces es cambiar la disposición de las columnas de tu Grid.
+
+- Luego cambia la disposición de los ítems, esta vez usando el recurso de grid-row y grid-column, que es el método corto de grid-row-start/end grid-column-start/end.
+
+```CSS
+@media only screen and (min-width: 768px) {
+       #grilla {
+            grid-template-columns: repeat(4, 1fr);
+      }
+      .border {
+    	border: 4px solid black;
+    	background-color: blue;
+     }
+}
+```
+
+## desktop
+
+Siguiendo el ejemplo de las grillas por áreas:
+
+- Cambia la disposición de la grilla.
+
+- Una vez más, cambia la disposición de los ítems.
+
+```CSS
+@media only screen and (min-width: 1024px) {
+      #grilla {
+            grid-template-columns: repeat(3, 1fr);
+      }
+      .border {
+    	border: 4px solid black;
+    	background-color: green;
+     }
+}
+```
+
+![image](https://user-images.githubusercontent.com/72580574/233437081-447ced91-7955-4337-a0cc-8807f7ca60b3.png)
+
+
+
+![image](https://user-images.githubusercontent.com/72580574/233437060-981b51e2-1f86-4f45-90f7-8add13623faa.png)
+
+![image](https://user-images.githubusercontent.com/72580574/233437129-001125f9-1a2f-43e8-8699-b26394eabc92.png)
+
+
+## meta viewport
+
+Las páginas optimizadas para diferentes dispositivos deben incluir la etiqueta <meta> viewport, en el encabezado del documento HTML. 
+Una etiqueta <meta> viewport da al navegador las instrucciones sobre cómo controlar las dimensiones, y el ajuste a escala de la página.
+
+- Usa la etiqueta <meta> viewport para controlar el ancho y el ajuste de la ventana de visualización del navegador. 
+
+- Incluye width=device-width para hacer coincidir el ancho de la pantalla en píxeles independientes del dispositivo.
+
+- Incluye initial-scale=1 para establecer una relación de 1:1 entre los píxeles CSS, y los píxeles independientes del dispositivo.
+
+
+El uso del valor de width=device-width indica a la página que debe hacer coincidir el ancho de la pantalla en píxeles independientes del dispositivo. 
+Esto permite que la página realice el reprocesamiento del contenido para adaptarlo a diferentes tamaños de pantalla.
+
+
+![image](https://user-images.githubusercontent.com/72580574/233437370-eef30f43-62e7-4234-927e-ed91908748a2.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/233437427-377eb4d3-043a-44aa-839b-12c8121eb177.png)
+
+
+
+---
+---
+
+## :star:EJERCICIO:star:
+
+> **Consigna**:
+
+1. Aplicar GRIDS en uno o más HTML que tengas 
+
+2. Aplicar Mobile First en el Home de tu proyecto para que sea responsive en tres dispositivos. 
+
+---
+---
+
