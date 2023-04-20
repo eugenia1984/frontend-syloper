@@ -4,24 +4,10 @@
 
 ## :book: Temas:
 
-- 14 - BOOTRSTRAP + THEMES 
+- 14 - BOOTRSTRAP + THEMES: GLOSARIO / BOOTSTRAP CON JS: carrousel, dropdown, modal, budges, popover, colapsados, breadcrumb /  BOOTSTRAP THEMES /  RESPONSIVE: media queries, operador add, orientación /  MATERIAL AMPLIADO 
 
 - 15 - SASS 
 
 - 16 - SASS SEGUNDA PARTE
-
----
-
-## :star: 14 - BOOTRSTRAP + THEMES 
-
-
----
-
-## :star: 15 - SASS 
-
----
-
-## :star: 16 - SASS SEGUNDA PARTE
-
 
 ---
