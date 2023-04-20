@@ -16,7 +16,7 @@
 
 - MATERIAL AMPLIADO 
 
-- CONSIGNA
+- EJERCICIO
 
 ---
 ---
@@ -27,7 +27,7 @@
 
 - **Width**: es la propiedad CSS que controla la anchura de la caja de los elementos.
 
-- **Height***: es la propiedad CSS que controla la altura de la caja de los elementos.
+- **Height**: es la propiedad CSS que controla la altura de la caja de los elementos.
 
 - **Overflow**: es una propiedad que tiene 4 valores posibles. Ellos son: visible, hidden, scroll y auto.
 
@@ -151,7 +151,8 @@ Lo primero que debemos hacer es establecer la propiedad display con el valor fle
 ```CSS
 .padre-flex {
    display: flex;
-   flex-direction: row; /* predeterminado */
+   flex-direction: 
+   row; /* predeterminado */
 }
 ````
 
@@ -300,7 +301,8 @@ Los siguientes ejemplos parten de la base del contenedor en “row”:
 
 ```CSS
 .padre-flex {
-   display: flex;  flex-direction: row; 
+   display: flex;  
+   flex-direction: row; 
    justify-content: flex-end;
 }
 ```
@@ -314,7 +316,8 @@ Los siguientes ejemplos parten de la base del contenedor en “row”:
 
 ```CSS
 .padre-flex {
-   display: flex;  flex-direction: row; 
+   display: flex;  
+   flex-direction: row; 
    justify-content: center;
 }
 ```
@@ -327,7 +330,8 @@ Los siguientes ejemplos parten de la base del contenedor en “row”:
 
 ```CSS
 .padre-flex {
-   display: flex;  flex-direction: row; 
+   display: flex;  
+   flex-direction: row; 
    justify-content: space-between;
 }
 ```
@@ -341,7 +345,8 @@ El espaciado entre los bordes lo toman del contenedor padre
 
 ```CSS
 .padre-flex {
-   display: flex;  flex-direction: row; 
+   display: flex;  
+   flex-direction: row; 
    justify-content: space-around;
 }
 ```
@@ -355,7 +360,8 @@ Nota: para Microsoft Edge16+ no funciona con flexbox, si con Grid.
 
 ```CSS
 .padre-flex {
-   display: flex;  flex-direction: row; 
+   display: flex;  
+   flex-direction: row; 
    justify-content: space-evenly;
 }
 ```
@@ -388,7 +394,8 @@ Resumen:
 
 ```CSS
 .padre-flex {
-   display: flex; flex-direction: row;
+   display: flex; 
+   flex-direction: row;
    align-items: stretch;
 }
 ```
@@ -411,7 +418,8 @@ Resumen:
 
 ```CSS
 .padre-flex {
-   display: flex; flex-direction: row;
+   display: flex; 
+   flex-direction: row;
    align-items: flex-end; /* predeterminado */
 }
 ```
@@ -423,7 +431,8 @@ Resumen:
 
 ```CSS
 .padre-flex {
-   display: flex; flex-direction: row;
+   display: flex; 
+   flex-direction: row;
    align-items: center; /* predeterminado */
 }
 ```
@@ -435,7 +444,8 @@ Resumen:
 
 ```CSS
 .padre-flex {
-   display: flex; flex-direction: row;
+   display: flex; 
+   flex-direction: row;
    align-items: baseline; /* predeterminado */
 }
 ```
@@ -455,7 +465,9 @@ Para poder aplicarlo se necesita tener el atributo flex-wrap, que permita verifi
 
 ```CSS
 .padre-flex {
-   display: flex; flex-wrap: wrap; flex-direction: row;
+   display: flex; 
+   flex-wrap: wrap; 
+   flex-direction: row;
    align-content:stretch; /* predeterminada */
 }
 ```
@@ -490,32 +502,182 @@ Para poder aplicarlo se necesita tener el atributo flex-wrap, que permita verifi
 
 ![image](https://user-images.githubusercontent.com/72580574/233407592-4a051e87-b44c-4e39-8982-f2fb2f0492d4.png)
 
-```CSS
 
+---
+---
+
+## :star:PROPIEDADES DEL HIJO:star: 
+
+---
+
+## order
+
+Esta propiedad permite modificar el orden de aparición de un elemento. Recibe como valor números enteros.
+
+```CSS
+.hijo-flex {
+   order: -1;
+}
+```
+
+![image](https://user-images.githubusercontent.com/72580574/233408948-ae42a606-624b-426a-843f-f84aa824ccdb.png)
+
+---
+
+## flex-basis
+
+Define el ancho de un elemento inicial. Este valor por defecto viene configurado en “auto”. Actúa como “máximo” o “mínimo”, al usar flex-grow o flex-shrink.
+
+```CSS
+.hijo-flex {
+  /* si esta en “row” es como el “width”, si está en “column” es cómo “height” */
+   flex-basis: 100px; 
+}
 ```
 ---
+
+## flex-grow
+
+Esta propiedad define la capacidad de un elemento de crecer, cuando en el contenedor todavía hay espacio sobrante.
+
+- Se configura con un valor numérico entero natural (no acepta negativos).
+
+- Por defecto, el valor viene configurado en "0", por lo tanto el elemento no crecerá de manera horizontal.
+
+- Si este valor es configurado en 1 para todos los ítems, todos estos crecerán de igual manera, por lo que ocuparán la misma cantidad de espacio dentro del contenedor.
+
+![image](https://user-images.githubusercontent.com/72580574/233409213-039c9f3c-290f-4f33-9c57-f79535142254.png)
+
+Resultado:
+
+```CSS
+.hijo-flex {
+   flex-grow: 0;
+}
+.hijo-flex.mayor {
+   flex-grow: 1;
+}
+```
+
+![image](https://user-images.githubusercontent.com/72580574/233409375-8c5bd105-8cee-48f6-b925-5a29fbcf7c07.png)
+
+-Otro ejemplo:
+
+![image](https://user-images.githubusercontent.com/72580574/233409444-1f83140e-2554-4c9d-a6a8-5006b287fe89.png)
+
+Resultado:
+
+```CSS
+.hijo-flex {
+   flex-grow: 1;
+}
+.hijo-flex.mayor {
+   flex-grow: 2;
+}
+````
+
+![image](https://user-images.githubusercontent.com/72580574/233409559-2af384c2-6d96-420e-bef2-1ac16b8c9bb2.png)
+
+
 ---
 
-- PROPIEDADES DEL HIJO: order, flex-basis, flex-grow, flex-shrink
+##  flex-shrink
+
+Básicamente es lo mismo que flex-grow, pero con el espacio faltante.
+
+![image](https://user-images.githubusercontent.com/72580574/233409638-aa633481-f51d-472c-92c5-7487c5de4ea7.png)
+
+## Flexbox: unificación
+
+Podemos unificar estos tres estilos mediante el atributo “flex” de la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/72580574/233409727-1e9bcb87-fea2-4216-920c-634deff6666b.png)
 
 
 ---
 ---
 
-- PÁGINAS CON FLEXBOX: ejemplos
+## :star:PÁGINAS CON FLEXBOX:star:
+
+Con lo aprendido en esta clase, podríamos hacer una estructura de página con la siguiente estructura, mediante flexbox:
+
+![image](https://user-images.githubusercontent.com/72580574/233409897-cd781ce4-8cd8-4add-a109-3d5d5e4799d1.png)
+
+```HTML
+<header>Header</header>
+<div id="main">
+ <nav>Nav</nav>
+ <aside>Aside</aside>
+ <article>Article   
+ </article>
+</div>
+<footer>Footer</footer>
+```
+
+```CSS
+body {
+   display: flex;
+   height: 600px;
+   flex-direction: column;
+   padding: 1em;
+}
+
+#main {
+   display: flex;
+   flex: 1;
+}
+
+article, nav, aside {
+   background-color: pink;
+}
+
+header, footer {
+   background-color: grey;
+   margin:1px;
+}
+
+article, nav, aside, header, footer {
+   flex:1;
+   padding: 1rem;
+   margin:1px;
+}
+```
+
+## Ejemplos
+
+![image](https://user-images.githubusercontent.com/72580574/233410291-f7aac29a-8d05-4811-9e40-c200fddcdddb.png)
+
+![image](https://user-images.githubusercontent.com/72580574/233410351-e011489c-055a-4135-bc5d-789bddbeb9dd.png)
+
+![image](https://user-images.githubusercontent.com/72580574/233410568-46de6777-c378-465e-8989-deaa0a455073.png)
+
+![image](https://user-images.githubusercontent.com/72580574/233410618-5be41ea7-5d90-494a-bdd9-5d280142ce34.png)
+
+![image](https://user-images.githubusercontent.com/72580574/233410669-c73e33d0-bcd2-4272-b430-fa26f0a8bd0f.png)
+
 
 ---
 ---
 
-- MATERIAL AMPLIADO 
+## :star:MATERIAL AMPLIADO:star:
+
+✦  [Ejemplos de aplicaciones de flexbox para tus proyectos | quackit.com](https://www.quackit.com/css/flexbox/examples/)
+
+✦  [Diferentes estructuras de páginas con flexbox | quackit.com](https://www.quackit.com/css/flexbox/examples/flexbox_website_layout_examples.cfm)
+
+✦  [Juego para practicar las propiedades | flexboxfroggy.com](https://flexboxfroggy.com/#es)
+
+✦  [Aprende flexbox jugando | flexboxdefense.com](http://www.flexboxdefense.com/)
+
+✦  [Guía de flexbox | css-tricks.com](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ---
 ---
 
-## :star: CONSIGNA
+## :star: EJERCICIO
 
 > **Consigna**: con los conocimientos adquiridos en la clase de hoy, modela con flexbox alguna sección de tu Proyecto Final.
 
 > **Aspectos que deberías tener en cuenta**: Dentro de una sección o página de tu proyecto, modela con flexbox utilizando alguna/s de las siguientes propiedades: display: flex, flex-direction, flex-wrap, flex-flow, justify-content, align-items, align-content, order, flex-basis, flex-shrink y/o flex-basis.
 
-
+---
