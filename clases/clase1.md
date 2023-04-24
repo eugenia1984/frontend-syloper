@@ -49,3 +49,21 @@ The commit contains the following structural elements, to communicate intent to 
  Additional types are not mandated by the Conventional Commits specification, and have no implicit effect in Semantic Versioning (unless they include a BREAKING CHANGE). A scope may be provided to a commit’s type, to provide additional contextual information and is contained within parenthesis, e.g., ``feat(parser): add ability to parse arrays``.
   
 ---
+
+ ## :stars:HOSTING
+ 
+ Algunos son:
+ 
+ - Render
+ 
+ - FireBase
+ 
+ - Vercel
+ 
+ - Netlify
+ 
+ - GitHubPages
+ 
+ -> Desde el Front End se suben archivos: HTML; CSS y JAVASCRIPT.
+ 
+ ---
