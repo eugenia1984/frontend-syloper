@@ -9,7 +9,7 @@ CURSO DE FRONTEND CON ![image](https://user-images.githubusercontent.com/7258057
 
 - Son **8 módulos**, dentro de la carpeta [**teoria**](https://github.com/eugenia1984/frontend-syloper/tree/main/teoria) está toda la teoría vista en cada uno de los mismos.
 
-- **CLASE DE CONSULTA**: A partir del 24 de abril y cada 15 días, habrá una clase de consulta en la que se responderán preguntas acerca del módulo correspondiente a la clase. Será lunes a las 16 hs y tendrá una duración de 45 minutos. En la clase se tomará asistencia. Esta dentro de la carpta [**Clases**](https://github.com/eugenia1984/frontend-syloper/tree/main/clases).
+- **CLASE DE CONSULTA**: A partir del 24 de abril y cada 15 días, habrá una clase de consulta en la que se responderán preguntas acerca del módulo correspondiente a la clase. Será lunes a las 16 hs y tendrá una duración de 45 minutos. En la clase se tomará asistencia. Esta dentro de la carpeta [**Clases**](https://github.com/eugenia1984/frontend-syloper/tree/main/clases).
 
 Los ejercicios subidos en cada módulo son opcionales, sirven como práctica pero no serán tenidos en cuenta para la corrección final
 
