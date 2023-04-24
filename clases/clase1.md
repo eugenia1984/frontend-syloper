@@ -2,7 +2,7 @@
 
 ---
 
-## GIT
+## :stars:GIT
 
 - Sistema de gestión de versiones
 
@@ -13,9 +13,16 @@
 
 - GIT se va actualizando, por ejemplo para cambiar de ramas podemos usar: `git checkout` y `git switch`.
 
-- GITHUB: poder tener acceso al repositorio, de forma remota(deja de ser local).
+---
 
-- El github dle profe [Gregory J Lopez](https://github.com/iamgld)
+## :stars:GITHUB
+
+- Poder tener acceso al repositorio, de forma remota(deja de ser local).
+
+
+- El github del profe [Gregory J Lopez](https://github.com/iamgld)
+
+---
 
 - :computer: -> [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
