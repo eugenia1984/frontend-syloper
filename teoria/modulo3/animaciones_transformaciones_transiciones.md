@@ -34,7 +34,7 @@ El diseño responsive se logra a través de "Media Queries" de CSS. Pensemos en 
 ---
 ---
 
-##:star:GRADIENTES:star:
+## :star:GRADIENTES:star:
 
 ## Ejes
 
@@ -337,10 +337,10 @@ haz clic sobre la imagen para ver la página web:
 
 ## :star:EJERCICIO:star:
 
-> **Consigna**: Agregá animaciones, transformaciones y/o gradientes a tu proyecto, que se adapten al mismo. 
+**Consigna**: Agregá animaciones, transformaciones y/o gradientes a tu proyecto, que se adapten al mismo. 
 Por ejemplo: podrías hacer que cuando pase el mouse por alguna foto, escale al doble; animar un título o imagen de la sección de publicidad; agregar gradiente al footer; y/o cambiar el color de los botones al pasar sobre ellos.
 
-> **Aspectos que deberías tener en cuenta**: Utiliza un gradiente en alguna sección de tu sitio, ya sea lineal (linear-gradient) o radial (radial-gradient). Aplica una o más de una transformación (transform): mover un elemento (translate), escalar el tamaño (scale), girar (rotate) o cambiar la perspectiva (skew).
+**Aspectos que deberías tener en cuenta**: Utiliza un gradiente en alguna sección de tu sitio, ya sea lineal (linear-gradient) o radial (radial-gradient). Aplica una o más de una transformación (transform): mover un elemento (translate), escalar el tamaño (scale), girar (rotate) o cambiar la perspectiva (skew).
 
 ---
 ---
