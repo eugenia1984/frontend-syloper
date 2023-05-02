@@ -329,9 +329,9 @@ Podés llegar a hacer cosas muy avanzadas y personalizar completamente el aspect
 ---
 ---
 
-## :star:ATERIAL AMPLIADO:star:
+## :star:MATERIAL AMPLIADO:star:
 
-✦ [Font Awesome Iconos | Font Awesome Icons](https://fontawesome.com/icons
+✦ [Font Awesome Iconos | Font Awesome Icons](https://fontawesome.com/icons)
 
 ✦ [Íconos Material Design | Material Design Icons](https://materialdesignicons.com/)
 
