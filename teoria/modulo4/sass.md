@@ -22,7 +22,7 @@
 
 - 9 - VARIABLES(VARS)
 
-- 10 - BEM
+- 10 - BEM: MODIFICADORES, ELEMENTOS, VENTAJAS Y DESVENTAJAS, USOS
  
 ---
 
@@ -246,7 +246,6 @@ div.container {
 }
 ```
 
-
 ```
 h1.title {
  font: normal 24px/1.5 "Open Sans", sans-serif;
@@ -367,6 +366,35 @@ Esto está bien 👍
 <button class=”menu__button  menu__button–primary”></button>
 ```
 
+### VENTAJAS Y DESVENTAJAS
+
+#### VENTAJAS 
+
+Añade especificidad.
+
+Aumenta la independencia.
+
+Mejora la herencia múltiple.
+
+Permite la reutilización.
+
+Entrega simplicidad
 
 
+#### DESVENTAJAS
+
+Las convenciones pueden ser muy largas.
+
+A algunas personas les puede tomar tiempo aprender la metodología.
+
+El sistema de organización puede ser difícil de implementar en proyectos pequeños.
+
+
+### USOS
+
+- Para simplificar nuestro CSS y conseguir un estilo consistente, por lo que nuestro código será mucho más legible y fácil de mantener.
+
+- Si estamos usando Bootstrap y queremos modificar ciertas clases.
+
+- Cuando trabajamos en equipo y cada miembro tiene una manera distinta de escribir CSS
 
