@@ -285,3 +285,27 @@ Ya tenemos un poco más claro cuales son las diferencias entre estas importantes
 - [Más información sobre OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/) | Smashing Magazine
   
 ---
+
+## EJERCICIOS
+         
+1. Consigna: Escoge una porcion de codigo de tu CSS y aplica SCSS con al menos dos propiedades vistas en la clase de hoy:
+
+-1 - Operaciones
+
+-2 -Condicionales
+
+-3 - Bucle
+         
+-4 - Each
+         
+-5 - Mapas
+         
+-6 - Extend
+         
+-7 - Mixins
+
+2. Consigna: agrega SASS y sus operaciones a tu Proyecto Final.
+
+-Aspectos que deberías tener en cuenta: Selecciona tres o más bloques de alguna de tus páginas que aún no tengan estilos, y genera el código necesario en SCSS.
+
+---
