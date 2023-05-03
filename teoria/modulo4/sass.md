@@ -23,7 +23,9 @@
 - 9 - VARIABLES(VARS)
 
 - 10 - BEM: MODIFICADORES, ELEMENTOS, VENTAJAS Y DESVENTAJAS, USOS
- 
+
+- 11 - EJERCICIOS
+
 ---
 
 ## :stars: 1 - GLOSARIO
@@ -398,3 +400,22 @@ El sistema de organización puede ser difícil de implementar en proyectos peque
 
 - Cuando trabajamos en equipo y cada miembro tiene una manera distinta de escribir CSS
 
+---
+
+## :stars: EJERCICIOS
+
+1. **Consigna**: 
+
+Crear el archivo SCSS con una estructura de archivos adaptada a sus proyectos y compilarlos.
+
+Crear al menos ocho (8) bloques con la metodología de BEM.
+
+2. **Consigna**: crea el archivo SCSS de sus proyectos y compilarlos. Además, deberás crear al menos cuatro (4) bloques con la metodología de BEM.
+
+**Aspectos que deberías tener en cuenta**:
+
+- Instala SASS y crea el archivo SCSS para compilarlo en CSS. 
+- Crear al menos cuatro (4) bloques con la metodología de BEM.
+
+
+---
