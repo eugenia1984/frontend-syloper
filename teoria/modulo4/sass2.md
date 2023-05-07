@@ -6,6 +6,22 @@
 
 - 1 - GLOSARIO
 
+- 2 - DEFINICIÓN
+
+- 3 - BUCLE
+
+- 4 - @EACH
+
+- 5 - MAPAS
+
+- 6 - @EXTENDS
+
+- 7 - MIXINS
+
+- 8 - MATERIAL AMPLIADO
+
+- 9 - EJERCICIOS
+
 ---
 
 ## :stars: GLOSARIO
@@ -22,7 +38,7 @@
 
 ---
 
-## DEFINICIÒN
+## :stars:  DEFINICIÓN
 
 Con SASS puedes realizar operaciones matemáticas básicas en la misma hoja de estilo, y es tan sencillo como poner el símbolo aritmético adecuado.
 
@@ -56,9 +72,7 @@ $green: #33D374;
 }
 
 ```
----
 
-## DEFINICION
 
 Permiten establecer reglas para validar si se aplica o no una acción, cambio o asignación en el atributo de un elemento. Estas condiciones podrán incluir comparadores típicos (==, !=, <, >) entre variables, constantes o cualquier expresión intermedia.
 
@@ -88,7 +102,7 @@ p {
 
 ---
 
-## BUCLE
+## :stars:  BUCLE
 
 Un bucle es una secuencia que repite más de una vez una porción de código, dada cierta condición. Cuando la misma deja de cumplirse, el bucle finaliza.
 
@@ -128,7 +142,7 @@ Por último, si indicamos ‘through’ se tendrán en cuenta los valores ``<sta
 
 ---
 
-## @EACH
+## :stars:  @EACH
 
 La regla @each facilita la emisión de estilos, o la evaluación del código para cada elemento de una lista, o cada par en un mapa.
 
@@ -170,7 +184,7 @@ En este caso, <list> será cualquier expresión que devuelva una lista de elemen
   
 ---
   
-## MAPAS
+## :stars:  MAPAS
 
 Los mapas son variables cuyo valor es una colección de variables. Se definen con un nombre que los identifica. Las claves suelen ser cadenas o números, mientras que los valores pueden ser cualquier tipo de dato.
   
@@ -210,7 +224,7 @@ Ejemplo: se necesita crear una serie de botones para compartir contenido y te ex
   
 ---
   
-## @EXTEND
+## :stars:  @EXTEND
   
 A menudo, al diseñar una página una clase debe tener todos los estilos de otra clase, así como sus propios estilos específicos. En esos casos usamos @extend, para traer los estilos de otra clase.
 
@@ -247,7 +261,7 @@ Por ejemplo, la metodología BEM fomenta las clases modificadoras que van en los
   
 ---
  
-## MIXINS
+## :stars:  MIXINS
   
 Te permiten definir estilos que pueden ser reutilizados en tu proyecto. Una de las mayores diferencias con los Extend, es que los Mixins pueden recibir argumentos, los cuales nos permitirán producir una gran variedad de estilos con unas simples líneas.
 
@@ -278,7 +292,7 @@ Ya tenemos un poco más claro cuales son las diferencias entre estas importantes
 
 ---
   
-## MATERIAL AMPLIADO
+## :stars:  MATERIAL AMPLIADO
   
 - [Más información sobre BEM](https://css-tricks.com/bem-101/) | BEM 101
 
@@ -286,7 +300,7 @@ Ya tenemos un poco más claro cuales son las diferencias entre estas importantes
   
 ---
 
-## EJERCICIOS
+## :stars:  EJERCICIOS
          
 1. Consigna: Escoge una porcion de codigo de tu CSS y aplica SCSS con al menos dos propiedades vistas en la clase de hoy:
 
