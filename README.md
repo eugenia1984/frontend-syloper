@@ -82,4 +82,6 @@ Sitio/Aplicación Web
 - Se realizará en fecha a confirmar una defensa oral y virtual del TP, que no debe exceder los 20 minutos y en donde los alumnos mostrarán el trabajo realizado, narrando si tuvieron algún problema y como fue resuelto, pudiendo tener que responder preguntas de los docentes, si surgieran.
 
 
+:computer: -> [Link al Canva con el maquetado del prototipo](https://www.canva.com/design/DAFiuea8ges/_sspazzLlNLHfqRZ10OZDQ/edit?utm_content=DAFiuea8ges&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ---
