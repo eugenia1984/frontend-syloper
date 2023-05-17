@@ -12,6 +12,5 @@
 
 - [20 - CICLOS E ITERACIONES](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo5/control_de_flujo.md):  GLOSARIO // - CICLOS EN JAVASCRIPT: TIPOS DE BUCLES / FOR / SENTENCIA BREAK / SENTENCIA CONTINUE / WHILE / DO WHILE / SWITCH // :book: MATERIAL AMPLIADO // :star: PRACTICA 
 
-- [21 - PROGRAMACION CON FUNCIONES](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo5/programacion_con_funciones.md): PRÁCTICA
-
+- [21 - PROGRAMACION CON FUNCIONES](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo5/programacion_con_funciones.md):  GLOSARIO //  FUNCIONES Y PROPIEDADES BÁSICAS: DEFINCIÓN, VENTAJAS, DECLARACIÓN, LLAMADO UNA FUNCIÓN, USANDO UNA FUNCIÓN, PARÁMETROS, RESULTADO DE UNA FUNCIÓN, SCOPE, VARIABLES GLOBALES,  VARIABLES LOCALES // FUNCIONES ANÓNIMAS Y FUNCIONES FLECHA //  MATERIAL AMPLIADO //  PRÁCTICA
 ---
