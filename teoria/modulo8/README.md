@@ -8,7 +8,4 @@
 
 ---
 
-## :star: 31 - ANGULAR, CONCEPTOS BÁSICOS
 
-
----
