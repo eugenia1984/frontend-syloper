@@ -1,4 +1,4 @@
-# :star: MODULO 6 - ARRAYS
+# :star: MODULO 6 - 23 - ARRAYS
 
 ---
 
