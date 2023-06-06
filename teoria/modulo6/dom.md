@@ -14,6 +14,14 @@
  
 - MODIFICAR NODOS: INNER TEXT / INNER HTML / CLASS NAME 
 
+- AGREGAR O QUITAR NODOS: CREAR DE ELEMENTO / ELIMINAR ELEMENTO / EJEMPLO: CREANDO OPCIONES DESDE UN ARRAY 
+
+- PLANTILLAS DE TEXTO:  PLANTILLAS LITERALES  /  PLANTILLAS LITERALES E innerHTML / EJEMPLO: CREANDO ELEMENTOS DESDE OBJETOS / QUERY SELECTOR / QUERY SELECTOR ALL 
+
+- MATERIAL AMPLIADO
+ 
+- OBTENER DATOS DE INPUTS 
+
 - PRÁCTICA
 
 ---
@@ -260,6 +268,165 @@ container.className = “container row”
 </div> 
 ```
   
+---
+ 
+## :stars: AGREGAR O QUITAR NODOS
+
+## CREAR DE ELEMENTO 
+ 
+Para crear elementos se utiliza la función document.createElement(), y se debe indicar el nombre de etiqueta HTML que representará ese elemento.
+Luego debe agregarse como hijo el nodo creado con append(), al body o a otro nodo del documento actual.
+ 
+```JavaScript
+// Crear nodo de tipo Elemento, etiqueta p
+let parrafo = document.createElement("p");
+// Insertar HTML interno
+parrafo.innerHTML = "<h2>¡Hola tú!</h2>"; 
+// Añadir el nodo Element como hijo de body
+document.body.append(parrafo);
+```
+ 
+## ELIMINAR ELEMENTO 
+ 
+Se pueden eliminar nodos existentes y nuevos. El método remove() permite eliminar un nodo seleccionado del DOM.
+
+ 
+```JavaScript
+let parrafo = document.getElementById("parrafo1");
+//Elminando el propio elemento
+parrafo.remove();
+
+let paises = document.getElementsByClassName("paises");
+//Eliminando el primer elemento de clase paises
+paises[0].remove()
+```
+
+## OBTENER DATOS DE INPUTS 
+ 
+Para obtener o modificar datos de un formulario HTML desde JS, podemos hacerlo mediante el DOM. Accediendo a la propiedad value de cada input seleccionado:
+ 
+- CODIGO HTML DE REFERENCIA 
+```HTML
+<input id = "nombre" type="text">
+<input id = "edad"   type="number">
+```
+ 
+- CODIGO JS
+```JavaScript
+document.getElementById("nombre").value = "HOMERO";
+document.getElementById("edad").value   = 39;
+```
+ 
+## EJEMPLO: CREANDO OPCIONES DESDE UN ARRAY 
+
+```JavaScript
+ //Obtenemos el nodo donde vamos a agregar los nuevos elementos
+let padre = document.getElementById("personas");
+//Array con la información a agregar
+let personas = ["HOMERO","MARGE", "BART", "LISA","MAGGIE"];
+//Iteramos el array con for...of
+for (const persona of personas) {
+    //Creamos un nodo <li> y agregamos al padre en cada ciclo
+    let li = document.createElement("li");
+    li.innerHTML = persona
+    padre.appendChild(li);
+}
+```
+ 
+---
+ 
+##:stars: PLANTILLAS DE TEXTO:  
+ 
+## PLANTILLAS LITERALES  
+ 
+En versiones anteriores a ES6, solía emplearse la concatenación para incluir valores de las variables en una cadena de caracteres (string). Esta forma puede ser poco legible ante un gran número de referencias. En JS ES6 que solventa esta situación son los template strings.
+
+ ```JavaSCript
+let producto = { id: 1,  nombre: "Arroz", precio: 125 };
+let concatenado = "ID : " + producto.id +" - Producto: " + producto.nombre + "$ "+producto.precio;
+let plantilla   = `ID: ${producto.id} - Producto ${producto.nombre} $ ${producto.precio}`;
+//El valor es idéntico pero la construcción de la plantilla es màs sencilla
+console.log(concatenado);
+console.log(plantilla);
+ ```
+ 
+ 
+## PLANTILLAS LITERALES E innerHTML 
+
+La plantillas son un medio para incluir variables en la estructura HTML de nodos nuevos o existentes , modificando el innerHTML.
+
+```JavaSCript
+ let producto   = { id: 1,  nombre: "Arroz", precio: 125 };
+let contenedor = document.createElement("div");
+//Definimos el innerHTML del elemento con una plantilla de texto
+contenedor.innerHTML = `<h3> ID: ${producto.id}</h3>
+                        <p>  Producto: ${producto.nombre}</p>
+                        <b> $ ${producto.precio}</b>`;
+//Agregamos el contenedor creado al body
+document.body.appendChild(contenedor);
+```
+ 
+ ## EJEMPLO: CREANDO ELEMENTOS DESDE OBJETOS 
+ 
+ ```JavaScript
+ const productos = [{ id: 1,  nombre: "Arroz", precio: 125 },
+                  {  id: 2,  nombre: "Fideo", precio: 70 },
+                  {  id: 3,  nombre: "Pan"  , precio: 50},
+                  {  id: 4,  nombre: "Flan" , precio: 100}];
+
+for (const producto of productos) {
+    let contenedor = document.createElement("div");
+    //Definimos el innerHTML del elemento con una plantilla de texto
+    contenedor.innerHTML = `<h3> ID: ${producto.id}</h3>
+                            <p>  Producto: ${producto.nombre}</p>
+                            <b> $ ${producto.precio}</b>`;
+    document.body.appendChild(contenedor);
+}
+```
+
+## QUERY SELECTOR 
+ 
+El método querySelector() nos permite seleccionar nodos con la misma sintaxis que utilizamos en los selectores de CSS.
+ 
+```HTML
+<div id=”contenedor”>
+    <p class=”texto”></p>
+</div>
+```
+ 
+```JavaScript 
+// puedo seleccionar la etiqueta <p> siguiendo la sintaxis de CSS para selectores:
+let parrafo = document.querySelector("#contenedor p")
+// seleccionar sólo el contenedor por id con #
+let contenedor = document.querySelector("#contenedor")
+
+// o por clase:
+parrafo = document.querySelector(".texto")
+``` 
+ 
+Lo interesante del querySelector es que también aplica a pseudo-clases de CSS, brindando un nivel más avanzado de precisión:
+
+```JavaScript
+let radioChecked = document.querySelector(".radio:checked")
+```
+ 
+Suponiendo que tengo elementos html radio button y quiero seleccionar sólo aquel que esté en checked, ésto lo puedo lograr muy fácil con querySelector y la pseudo-clase :checked de CSS.
+ 
+## QUERY SELECTOR ALL 
+
+Query Selector me retorna el primer elemento que coincida con el parámetro de búsqueda, o sea un sólo elemento. 
+Si quiero obtener una colección de elementos puedo utilizar el método querySelectorAll() siguiendo el mismo comportamiento.
+ 
+## MATERIAL AMPLIADO
+ 
+✦  [Árbol del Modelo de Objetos del Documento (DOM) | Ejemplos interactivos: DOM](https://es.javascript.info/dom-nodes)
+ 
+✦  [Recorriendo el DOM | Ejemplos interactivos: DOM](https://es.javascript.info/dom-navigation)
+ 
+✦  [Propiedades de los nodos | Ejemplos interactivos: DOM](https://es.javascript.info/basic-dom-node-properties)
+ 
+✦  [Documentación DOM | Documentación](https://developer.mozilla.org/es/docs/Web/API/Document_Object_Model/Introduction)
+ 
 ---
   
 ## :computer: PRACTICA
