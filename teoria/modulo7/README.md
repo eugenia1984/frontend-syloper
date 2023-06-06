@@ -10,6 +10,6 @@
 
 - [29 - ASINCRONÍA Y PROMESAS](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo7/asincronia_y_promesas.md): - GLOSARIO  / :star:  MODELOS DE PROGRAMACIÓN SINCRÓNICA Y ASINCRÓNICA: PROGRAMACIÓN SINCRÓNICA / PROGRAMACIÓN ASINCRÓNICA / ARCHIVOS MINIFICADOS   / :star:  setTimeout : EJEMPLO DE APLICACIÓN DE setTimeout /   EJEMPLO DE APLICACIÓN DE setTimeout / ANTES DE SEGUIR / EJEMPLO DE APLICACIÓN DE setTimeout  / :star:  CALL STACK:  DEFINICIÓN / CALL STACK / ESTADOS DE CALLSTACK  / :star:  EVENT LOOP: LOUPE /   EVENT LOOP  / :star:  setInterval  / :star:  clearInterval & clearTimeout  / :star:  PROMESAS: DEFINICIÓN / PROMESAS  / :star:  RESOLVE Y REJECT  / :star:  THEN & CATCH  / :star:  FINALLY:   DEFINICIÓN / SIMULANDO PETICIÓN DE DATOS 
 
-- 30 - AJAX Y FETCH
+- [30 - AJAX Y FETCH](https://github.com/eugenia1984/frontend-syloper/blob/main/teoria/modulo7/ajax_y_fetch.md): GLOSARIO  / :star: AJAX: DEFINICIÓN  / :star: MODELO CLIENTE-SERVIDOR: COMUNICACIÓN CON EL SERVIDOR  / :star: PETICIONES HTTP  / :star: ESTADOS DE PETICIÓN  / :star:  API  / :star: FETCH  / :star: RESPONSE / :star: ANALIZANDO RESPUESTAS / :star: ENVIANDO DATOS CON POST / :star: RUTAS RELATIVAS / :star: ASYNC - AWAIT / :star: MATERIAL EXTRA
 
 ---
