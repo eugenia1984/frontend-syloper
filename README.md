@@ -1,6 +1,4 @@
-# :star: FRONT END SYLOPER
-
----
+# <img width="48" height="48" src="https://img.icons8.com/emoji/48/desktop-computer.png" alt="desktop-computer"/> FRONT END SYLOPER
 
 
 CURSO DE FRONTEND CON ![image](https://user-images.githubusercontent.com/72580574/232621721-bb6cd3d0-269e-4cc5-b059-1765d729958c.png)
@@ -82,6 +80,6 @@ Sitio/Aplicación Web
 - Se realizará en fecha a confirmar una defensa oral y virtual del TP, que no debe exceder los 20 minutos y en donde los alumnos mostrarán el trabajo realizado, narrando si tuvieron algún problema y como fue resuelto, pudiendo tener que responder preguntas de los docentes, si surgieran.
 
 
-:computer: -> [Link al Canva con el maquetado del prototipo](https://www.canva.com/design/DAFiuea8ges/_sspazzLlNLHfqRZ10OZDQ/edit?utm_content=DAFiuea8ges&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Link al Canva con el maquetado del prototipo](https://www.canva.com/design/DAFiuea8ges/_sspazzLlNLHfqRZ10OZDQ/edit?utm_content=DAFiuea8ges&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
