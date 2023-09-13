@@ -1,7 +1,7 @@
-# <img width="48" height="48" src="https://img.icons8.com/emoji/48/desktop-computer.png" alt="desktop-computer"/> FRONT END SYLOPER
+# <img width="40" height="40" src="https://img.icons8.com/emoji/40/desktop-computer.png" alt="desktop-computer"/> FRONT END SYLOPER
 
 
-CURSO DE FRONTEND CON ![image](https://user-images.githubusercontent.com/72580574/232621721-bb6cd3d0-269e-4cc5-b059-1765d729958c.png)
+Curso de FrontEnd con <img src="https://user-images.githubusercontent.com/72580574/232621721-bb6cd3d0-269e-4cc5-b059-1765d729958c.png" widht="130" />
 
 ---
 
