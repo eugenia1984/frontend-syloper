@@ -15,8 +15,9 @@ Los ejercicios subidos en cada módulo son opcionales, sirven como práctica per
 
 - Hay un **Trabajo práctico final**, es en equipos de 2 personas. La consigna es:
 
+---
 
-### DESARROLLO
+###  <img width="30" height="30" src="https://img.icons8.com/emoji/30/desktop-computer.png" alt="desktop-computer"/> DESARROLLO
 
 -Crear el frontend para un sitio que consuma una API pública, utilizando:
 
@@ -28,8 +29,9 @@ Los ejercicios subidos en cada módulo son opcionales, sirven como práctica per
 
 -Consumir información de 1 o más APIs públicas y que esta se vean reflejada como datos en el sitio/app
 
+---
 
-### REQUISITOS MINIMOS
+### <img width="30" height="30" src="https://img.icons8.com/emoji/30/desktop-computer.png" alt="desktop-computer"/> REQUISITOS MINIMOS
 
 Sitio/Aplicación Web
 
@@ -53,7 +55,9 @@ Sitio/Aplicación Web
 
 - Datos de diferentes endpoint relacionados entre sí, por ejemplo películas asociadas a directores, o actores.
 
-### REQUISITOS OPCIONALES
+---
+
+### <img width="30" height="30" src="https://img.icons8.com/emoji/30/desktop-computer.png" alt="desktop-computer"/> REQUISITOS OPCIONALES
 
 - Roles o permisos de usuario según rol.
 
@@ -61,8 +65,9 @@ Sitio/Aplicación Web
 
 - Sumar buenas prácticas de SEO. Explicar cinco (5) cambios o mejoras realizadas y cómo impactarían en el SEO del proyecto
 
+---
 
-### REPOSITORIO
+### <img width="30" height="30" src="https://img.icons8.com/emoji/30/desktop-computer.png" alt="desktop-computer"/> REPOSITORIO
 
 - El desarrollo deberá realizarse en una plataforma de git gratuita. Se recomienda GitLab o GitHub.
 
@@ -70,8 +75,9 @@ Sitio/Aplicación Web
 
 - La creación del repositorio debe hacerse mediante un fork del repositorio del trabajo práctico (https://github.com/iamgld/angular-template-curso-2023).
 
+---
 
-### MODALIDAD DE ENTREGA Y DEFENSA DEL TRABAJO PRACTICO
+### <img width="30" height="30" src="https://img.icons8.com/emoji/30/desktop-computer.png" alt="desktop-computer"/> MODALIDAD DE ENTREGA Y DEFENSA DEL TRABAJO PRACTICO
 
 -La entrega final deberá hacerse enviando por email a los profesores la URL del repositorio de git, corroborando previamente que se pueda acceder públicamente a ese repositorio.
 
@@ -81,5 +87,9 @@ Sitio/Aplicación Web
 
 
 [Link al Canva con el maquetado del prototipo](https://www.canva.com/design/DAFiuea8ges/_sspazzLlNLHfqRZ10OZDQ/edit?utm_content=DAFiuea8ges&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
+I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
 
 ---
